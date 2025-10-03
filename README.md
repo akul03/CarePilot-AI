@@ -1,11 +1,8 @@
-Perfect 👍 I’ll give you **all the README files together in Markdown**, each one written cleanly with a unique tone & structure so you can directly choose the one that fits best.
-
----
 
 # 1️⃣ **DiagnoDrive**
 
 ````markdown
-# DiagnoDrive
+ DiagnoDrive
 
 DiagnoDrive is an experimental framework that uses multi-agent large language models (LLMs) to process medical case reports and generate structured diagnostic summaries.  
 The goal is to explore how agent-based reasoning can improve interpretability in healthcare research.
@@ -14,7 +11,7 @@ The goal is to explore how agent-based reasoning can improve interpretability in
 
 ---
 
-## Key Features
+ Key Features
 - Agent-based pipeline for analyzing clinical reports.  
 - Consolidates reasoning across multiple steps.  
 - Easy to customize with different agent roles.  
@@ -22,7 +19,7 @@ The goal is to explore how agent-based reasoning can improve interpretability in
 
 ---
 
-## Installation
+ Installation
 
 1. Install **Python 3.10+**.  
 2. Set up a virtual environment:  
@@ -45,7 +42,7 @@ The goal is to explore how agent-based reasoning can improve interpretability in
 
 ---
 
-## Running the Project
+ Running the Project
 
 ```bash
 python Main.py
@@ -56,7 +53,7 @@ python Main.py
 
 ---
 
-## Project Layout
+ Project Layout
 
 ```
 DiagnoDrive/
@@ -74,9 +71,9 @@ DiagnoDrive/
 
 ---
 
-# 2️⃣ **CarePilot AI**
+ 2️⃣ **CarePilot AI**
 ```markdown
-# CarePilot AI
+CarePilot AI
 
 CarePilot AI is a research-driven project that applies lightweight agent-based LLMs to medical diagnostics.  
 The system orchestrates multiple agents to analyze case reports and synthesize a unified assessment.  
@@ -85,7 +82,7 @@ The system orchestrates multiple agents to analyze case reports and synthesize a
 
 ---
 
-## Features
+ Features
 - Modular, agent-oriented design.  
 - Generates structured diagnostic summaries.  
 - Works with customizable input formats.  
@@ -93,7 +90,7 @@ The system orchestrates multiple agents to analyze case reports and synthesize a
 
 ---
 
-## Installation
+ Installation
 1. Python 3.10+  
 2. Virtual environment setup:  
    ```bash
